@@ -1,4 +1,4 @@
-#  DNS Log Analysis with Splunk SIEM
+#  HTTP Log Analysis with Splunk SIEM
 
 
 This project presents a Splunk-based dashboard for analyzing HTTP access logs from [`http_log/`](https://github.com/sanjanamarri2521/HTTP_Log_Analysis/tree/main/http_log) to uncover insights into web traffic, monitor user behavior, and identify anomalies.
